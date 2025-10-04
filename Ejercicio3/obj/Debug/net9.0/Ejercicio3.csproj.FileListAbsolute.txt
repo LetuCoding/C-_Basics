@@ -1,0 +1,15 @@
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.sourcelink.json
+E:\Unity\C-_Basics\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+E:\Unity\C-_Basics\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+E:\Unity\C-_Basics\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+E:\Unity\C-_Basics\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+E:\Unity\C-_Basics\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+E:\Unity\C-_Basics\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll

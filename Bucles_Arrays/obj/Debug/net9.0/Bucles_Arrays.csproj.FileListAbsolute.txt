@@ -1,0 +1,15 @@
+E:\Unity\C-_Basics\Bucles_Arrays\bin\Debug\net9.0\Bucles_Arrays.exe
+E:\Unity\C-_Basics\Bucles_Arrays\bin\Debug\net9.0\Bucles_Arrays.deps.json
+E:\Unity\C-_Basics\Bucles_Arrays\bin\Debug\net9.0\Bucles_Arrays.runtimeconfig.json
+E:\Unity\C-_Basics\Bucles_Arrays\bin\Debug\net9.0\Bucles_Arrays.dll
+E:\Unity\C-_Basics\Bucles_Arrays\bin\Debug\net9.0\Bucles_Arrays.pdb
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.AssemblyInfoInputs.cache
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.AssemblyInfo.cs
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.csproj.CoreCompileInputs.cache
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.sourcelink.json
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.dll
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\refint\Bucles_Arrays.dll
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.pdb
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\Bucles_Arrays.genruntimeconfig.cache
+E:\Unity\C-_Basics\Bucles_Arrays\obj\Debug\net9.0\ref\Bucles_Arrays.dll
