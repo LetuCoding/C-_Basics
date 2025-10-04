@@ -23,9 +23,12 @@ namespace MiNamespace
             Console.WriteLine(MediaDeNotas(notas));*/
 
             //EJercicio8
-            int[] numeros = { 0, 9, 3, 4, 5 };
+            /*int[] numeros = { 0, 9, 3, 4, 5 };
             Console.WriteLine( Program.numerosMayoresMenores(numeros));
+            */
             
+
+
 
         }
 
@@ -73,7 +76,7 @@ namespace MiNamespace
             int min = numeros[0];
             foreach (int i in numeros)
             {
-                
+
                 if (i > max)
                 {
                     max = i;
@@ -89,6 +92,9 @@ namespace MiNamespace
 
             return ("el numero más grande es: " + max + " " + "El numero más pequeño es: " + min);
         }
+
         
+
+
     }
 }
